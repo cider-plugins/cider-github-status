@@ -1,0 +1,11 @@
+{
+  "name": "paprika-github-status",
+  "version": "0.0.1",
+  "description": "let Paprika annotate GitHub pull requests",
+  "variables": {
+    "GITHUB_TOKEN": {
+      "usage": "GitHub access token to use for creating statuses",
+      "secret": true
+    }
+  }
+}
