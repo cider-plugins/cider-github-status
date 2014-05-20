@@ -1,4 +1,7 @@
-paprika-github-status
-=====================
+# cider-github-status #
 
-A Cider application that annotates GitHub commits on various Paprika build events
+Cider plugin for annotating GitHub pull requests
+
+## License ##
+
+MIT, see the `LICENSE` file.
