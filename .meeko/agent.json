@@ -1,0 +1,11 @@
+{
+  "name": "cider-github-status",
+  "version": "0.0.1",
+  "description": "Cider plugin for annotating GitHub pull requests",
+  "variables": {
+    "GITHUB_TOKEN": {
+      "usage": "GitHub access token to use for adding statuses",
+      "secret": true
+    }
+  }
+}
